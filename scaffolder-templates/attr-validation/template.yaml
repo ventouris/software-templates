@@ -1,11 +1,12 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
-  name: attr-validation-study
-  title: ATTR Validation study
-  description: Create a Python code package for an ATTR Validation study
+  name: create-react-app-template
+  title: Create React App Template
+  description: Create a new CRA website project
   tags:
-    - python
+    - react
+    - cra
 spec:
   owner: web@example.com
   type: website
